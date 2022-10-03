@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Natália</h1>
 <h3 align="center">A backend Java developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Java, MySQL**
+- 🌱 I’m currently learning about backend development with **Java and MySQL**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
