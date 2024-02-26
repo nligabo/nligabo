@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natália</h1>
 <h3 align="center">A data science student form Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nligabo" alt="nligabo" /></a> </p>
+<p align="left"> 
 
 - 🌱 I’m currently learning **Data Science with PowerBI and Python**
 
